@@ -1,0 +1,1 @@
+This project simulates the process of file synchronisation. There are two folders. One is client folder and the other is server foler. All file operations like creating, editing, deleting files in the client foler will be synchronized in the server folder. Specification could be checked in the Specification.pdf.

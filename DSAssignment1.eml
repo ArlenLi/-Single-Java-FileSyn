@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" jdk="1.8" jdk_type="JavaSDK">
+	<output-test url="file://$MODULE_DIR$/out/test/DSAssignment1"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="$MODULE_DIR$/../PotentialLibraries/args4j-2.32.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/../PotentialLibraries/args4j-2.32.jar!/OSGI-OPT/src"/>
+	</lib>
+	<lib name="$MODULE_DIR$/../FileSync.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/../FileSync.jar!/"/>
+	</lib>
+	<lib name="$USER_HOME$/Dropbox/semester2/distributed sys/assignment/Assignment1-resources/FileSync.jar" scope="COMPILE">
+		<srcroot url="jar://$USER_HOME$/Dropbox/semester2/distributed sys/assignment/Assignment1-resources/FileSync.jar!/"/>
+	</lib>
+	<lib name="$USER_HOME$/Dropbox/semester2/distributed sys/assignment/Assignment1-resources/PotentialLibraries/gson-2.3.1.jar" scope="COMPILE">
+		<srcroot url="jar://$USER_HOME$/Dropbox/semester2/distributed sys/assignment/Assignment1-resources/PotentialLibraries/args4j-2.32.jar!/OSGI-OPT/src"/>
+	</lib>
+</component>
